@@ -1,10 +1,13 @@
 .nav-link{
-    color: white !important;
+    color: #2d2b3a !important;
 }
 .nav-link:hover{
-    color: rgb(24, 174, 220) !important;
+    color: #6c55f9 !important;
 }
 
 body{
-    background-color: rgb(75, 75, 75) !important;
+    background-color: #ffffff !important;
+}
+#colorn{
+    color: #6c55f9 !important;
 }
