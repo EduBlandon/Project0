@@ -1,0 +1,32 @@
+body {
+  color: whitesmoke !important;
+  background-color: #1b1e23 !important;
+}
+
+.navbar-nav .nav-link {
+  color: #2d2b3a !important;
+}
+
+.nav-link:hover {
+  color: #6c55f9 !important;
+}
+
+#colorn, .mierda {
+  color: #6c55f9 !important;
+}
+
+@media only screen and (max-width: 576px) {
+  .jaja {
+    margin-bottom: 10px;
+  }
+}
+
+.lol {
+  font-size: 30px;
+}
+
+* .kody:hover {
+  border-color: red;
+  color: #6c55f9;
+}
+/*# sourceMappingURL=sa.css.map */
